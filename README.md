@@ -27,7 +27,7 @@ Installation
 Clone the repository:
 
 Bash
-git clone https://github.com/yourusername/bhala-smart.git
+git clone https://github.com/timburg23/bhala-tutor-personal.git
 cd bhala-smart
 Install dependencies:
 
